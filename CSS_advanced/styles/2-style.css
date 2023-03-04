@@ -8,6 +8,6 @@ body, a {
     color: #161616;
 }
 
-card-category, section-tagline {
+.card-category, .section-tagline {
     color: #D73953;
 }
