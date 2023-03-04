@@ -1,0 +1,13 @@
+/* 2. Do you know your color values? */
+
+html {
+    scroll-behavior: smooth;
+}
+
+body, a {
+    color: #161616;
+}
+
+card-category, section-tagline {
+    color: #D73953;
+}
