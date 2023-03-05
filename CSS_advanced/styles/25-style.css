@@ -279,7 +279,7 @@ a:active {
     background-color: var(--color-light-grey);
 }
 
-.selector button {
+.button {
     display: var(--button-display);
     padding: var(--button-padding);
     border: var(--button-border);
@@ -288,7 +288,7 @@ a:active {
     text-decoration: var(--button-text-decoration);
 }
 
-.selector button:hover {
+.button:hover {
     color: var(--button-hover-color);
     text-decoration: var(--button-hover-text-decoration);
     background: var(--button-hover-background);
