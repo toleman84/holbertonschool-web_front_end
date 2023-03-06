@@ -205,7 +205,7 @@ html {
     --nav-item-letter-spacing: 0.04rem;
     --nav-item-display: inline-block;
     --nav-item-margin: 0 0 3rem 0;
-    --nav-item-link-hover: var(--color-primary);
+    --nav-item-link-hover: var(--color-white);
     --section-tagline-margin: 0;
     --button-display: inline-block;
     --button-padding: 1.5rem 3rem;
@@ -274,8 +274,8 @@ html {
     height: 0.2rem;
 }
 
-.nav .nav-link:hover .nav-link::before {
-    color: var(--color-primary);
+.nav .nav-item:hover .nav-link::before {
+    background-color: var(--color-primary);
     width: 100%;
 }
 
