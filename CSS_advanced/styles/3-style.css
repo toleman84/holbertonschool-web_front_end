@@ -11,7 +11,7 @@ html {
     scroll-behavior: smooth;
 }
 
-body a{
+body, a{
     color: var(--text-color);
 }
 
@@ -19,6 +19,6 @@ body a{
     display: none;
 }
 
-.section-tagline .card-category {
+.section-tagline, .card-category {
     color: var(--color-primary);
 }
