@@ -389,6 +389,8 @@ template {
 
 [data-section-theme=“dark”] {
     background-color: var(--color-black);
+    --text-color: var(--color-white);
+    --section-title-color: var(--color-white);
 }
 
 .navbar-menu {
